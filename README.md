@@ -54,14 +54,3 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 - Detection Lab
 - SOC Automation Project
 
-suspicious-login-investigation/
-├── README.md
-├── evidence/
-│   ├── login-alert-email.txt
-│   └── screenshots/
-├── findings/
-│   ├── timeline.md
-│   └── final-report.md
-├── recommendations/
-│   └── remediation.md
-└── tools-used.md
